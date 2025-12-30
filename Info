@@ -1898,7 +1898,7 @@
           "Damage": 600,
           "Cooldown": 4.4,
           "UpgradePrice": 4500,
-          "Type": "Full"
+          "Type": "FullAOE"
         },
         {
           "Range": 24,
