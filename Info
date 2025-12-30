@@ -640,7 +640,7 @@
         "Stolen Batteries": "Every upgrade provides a 2% RNG boost to all units in range"
       },
       "Obtainability": [
-        "Season 1 Premium Pass T1"
+        "Season 1 Premium Pass Tier 1"
       ]
     },
     {
@@ -755,7 +755,7 @@
         "NO PASSIVE": "This unit has no active passive :("
       },
       "Obtainability": [
-        "Christmas Movie Event Summons 89%"
+        "Christmas Movie Event Summons (89%)"
       ]
     },
     {
@@ -1083,7 +1083,7 @@
         "Jack-O Blaze": "All attacks from this unit apply a burn for 5% of its damage for 3s. When attacking a burned enemy, this unit does 20% more damage. (This damage boost does not apply to pumpkins)"
       },
       "Obtainability": [
-        "Halloween Event Free Pass T30"
+        "Halloween Event Free Pass Tier 30"
       ]
     },
     {
@@ -1140,7 +1140,7 @@
         "NO PASSIVE": "This unit has no active passive :("
       },
       "Obtainability": [
-        "Christmas Movie Event Summons 10%"
+        "Christmas Movie Event Summons (10%)"
       ]
     },
     {
@@ -1297,7 +1297,7 @@
         "All Aboard!": "On this unit's cooldown, summons a train on the track with 120% damage as health (does not damage bosses). While a train is on the track, this unit gains a 10% damage boost (capped at 1)."
       },
       "Obtainability": [
-        "Christmas Movie Event Exclusive 1299R$ / 25000 Gingerbread"
+        "Christmas Movie Event Exclusive (1299 R$ / 25000 Gingerbread)"
       ]
     },
     {
@@ -1354,7 +1354,7 @@
         "Engineer": "This unit places turrets that do Single Target attacks equal to this units damage and cooldown. Places a turret every 15s, turrets last 60s. Maximum of 3 turrets per Endo 02 placed. [Places somewhere randomly within range]"
       },
       "Obtainability": [
-        "Season 1 Free Pass T30"
+        "Season 1 Free Pass Tier 30"
       ]
     },
     {
@@ -1411,7 +1411,7 @@
         "Herald of Winter": "This unit summons Snow Bonnies around itself (cap of 3) that provide 1 of 2 following buffs to itself: 10% DMG and RNG increase 15% slowing to all enemies in range While a Snow Bonnie is present, attacks freeze enemies for 1s."
       },
       "Obtainability": [
-        "Christmas Movie Event Summons .35%"
+        "Christmas Movie Event Summons (0.35%)"
       ]
     },
     {
@@ -1468,7 +1468,7 @@
         "Punishment of Evil": "This unit stuns enemies it attacks for 1.8s. When attacking a stunned enemy, deal 35% more damage."
       },
       "Obtainability": [
-        "Christmas Movie Event Free Pass T30"
+        "Christmas Movie Event Free Pass Tier 30"
       ]
     },
     {
@@ -1519,7 +1519,7 @@
         "Eye for Talent": "This unit boosts all forms of income by 10%, scaling by 2% per upgrade. [ends at 20%] This unit boosts the damage of the unit with the highest damage number in range by 25%."
       },
       "Obtainability": [
-        "Christmas Movie Event Exclusive 799R$ / 15000 Gingerbread"
+        "Christmas Movie Event Exclusive (799 R$ / 15000 Gingerbread)"
       ]
     },
     {
@@ -1571,7 +1571,7 @@
         "Party Poppers": "Every 15 seconds, spawns in 2 Party Poppers anywhere in this unit's range that aim at the enemy currently being targeted by the unit. Party Poppers deal 120% of this unit's current damage in a 70 degree Cone AOE."
       },
       "Obtainability": [
-        "1st Bi-Weekly Exclusive 599R$ / 12500 Coins"
+        "1st Bi-Weekly Exclusive (599 R$ / 12500 Coins)"
       ]
     },
     {
@@ -1630,7 +1630,7 @@
         "Fallout [Active Ability] [Upgrade 6+]": "Upon activation, for the next 17s I.C.B.C.M's are launched every 3.4s dealing 140% of this unit's current damage. After this for 3s, releases a wave of steam hitting 3 times for 120% of this unit's current damage (Cone AOE) applying burn for 3s dealing 40% of the damage dealt by the steam [13.3% dmg/tick]. [20s Duration] [120s Global CD]"
       },
       "Obtainability": [
-        "1st Starter Pack 249R$"
+        "1st Starter Pack (249 R$)"
       ]
     },
     {
@@ -1675,7 +1675,7 @@
         "Popcorn Party Pack": "Every 8 seconds this unit shots Popcorn with 1 of 3 different effects in this order. Spicy: 120 degree Cone, dealing 35% burn for 3s. Buttered: Single target Knockback Sweet: Boost all units and their stats by 5% for 7s."
       },
       "Obtainability": [
-        "4th Bi-Weekly Exclusive 799R$ / 35000 Coins"
+        "4th Bi-Weekly Exclusive (799 R$ / 35000 Coins)"
       ]
     },
     {
@@ -1726,7 +1726,7 @@
         "Soul Shock": "[Unstable] is applied to every 8th Enemy that enters the map. [Unstable] results in an explosion that deals 50% damage of the unit that killed it."
       },
       "Obtainability": [
-        "2nd Bi-Weekly Exclusive 799R$ / 35000 Coins"
+        "2nd Bi-Weekly Exclusive (799 R$ / 35000 Coins)"
       ]
     },
     {
@@ -1772,7 +1772,7 @@
         "Crop Raiser": "While in (Raiser) form, this unit speeds up all enemies in range by 5%, and buffs all towers in range by 15% Damage and 15% Range. Additionally while in (Raiser) form, this unit will attack the strongest enemy in range every 3s for 200% of its damage."
       },
       "Obtainability": [
-        "Halloween Event Exclusive 1299R$ / 35000 Pumpkins"
+        "Halloween Event Exclusive (1299 R$ / 35000 Pumpkins)"
       ]
     },
     {
@@ -1837,7 +1837,7 @@
         "Agonizing Energy": "Attacks apply poison for 2s, dealing 20% of this unit's current damage. [10% dmg/tick]"
       },
       "Obtainability": [
-        "Season 1 Premium Pass T30"
+        "Season 1 Premium Pass Tier 30"
       ]
     },
     {
@@ -1959,7 +1959,7 @@
         "Indiscriminate Bloodshed": "Bloodlust boost now becomes permanent once obtained, stack cap still applies. Once this unit reaches 5 Bloodlust stacks, this unit’s attack type changes to a 45 Degree Cone."
       },
       "Obtainability": [
-        "Halloween Event Exclusive 799R$ / 15000 Pumpkins"
+        "Halloween Event Exclusive (799 R$ / 15000 Pumpkins)"
       ]
     },
     {
@@ -2067,7 +2067,7 @@
         "Horn of Plenty": "Every 7 seconds, the cornucopia this unit holds will give itself a random buff from the “Blessing of Abundance” list found here. Blessing of Abundance: Nuts: 50% damage buff for 5s Produce: 30% cooldown buff for 5s Flowers: 80% range buff for 5s"
       },
       "Obtainability": [
-        "3rd Bi-Weekly Exclusive 799R$ / 35000 Coins"
+        "3rd Bi-Weekly Exclusive (799 R$ / 35000 Coins)"
       ]
     },
     {
@@ -2262,7 +2262,7 @@
         "Heartbeat Current": "Every 60 seconds an electric shock spreads from Dreadbear’s heart throughout the rest of his body, decreasing his cooldown by 15% for 20 seconds."
       },
       "Obtainability": [
-        "Halloween Event Premium Pass T30"
+        "Halloween Event Premium Pass Tier 30"
       ]
     },
     {
@@ -2313,7 +2313,7 @@
         "Broken Ornaments": "When attacking an enemy, has a 33% chance to apply a 2 second bleed dealing 10% damage every second"
       },
       "Obtainability": [
-        "Christmas Movie Event Premium Pass T30"
+        "Christmas Movie Event Premium Pass Tier 30"
       ]
     },
     {
@@ -2384,7 +2384,7 @@
         "Radio Static": "When an enemy is within 50% of this unit's range for more than 6 seconds, this unit stuns the enemy for 0.75s. [10s stun CD]"
       },
       "Obtainability": [
-        "1st Exclusive Pack 2500R$"
+        "1st Exclusive Pack (2500 R$)"
       ]
     },
     {
@@ -2522,7 +2522,7 @@
         "Ghosts of Christmas Past and Future": "All attacks from this unit inflict [Darkfire]. Darkfire does 23% of this unit’s damage per tick for 2 seconds."
       },
       "Obtainability": [
-        "Christmas Movie Event Summons .35%"
+        "Christmas Movie Event Summons (0.025%)"
       ]
     },
     {
@@ -2683,7 +2683,7 @@
         }
       ],
       "Obtainability": [
-        "Christmas Movie Event Special Endless (It's a random chance to get upon completion of wave 25.)"
+        "Christmas Movie Event Special Endless (Random chance upon completion of wave 25)"
       ]
     },
     {
@@ -2767,7 +2767,7 @@
         }
       ],
       "Obtainability": [
-        "Halloween Event Endless Shop | 150K Bones"
+        "Halloween Event Endless Shop (150K Bones)"
       ]
     },
     {
