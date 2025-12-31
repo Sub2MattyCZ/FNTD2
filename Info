@@ -233,7 +233,7 @@
           "demand": "9/10"
         },
         "Shiny": {
-          "value": "18+",
+          "value": "13",
           "demand": "N/A"
         }
       },
@@ -259,7 +259,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "2.3+",
+          "value": "2.5-3",
           "demand": "N/A"
         },
         "Shiny": {
@@ -339,7 +339,7 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "N/A",
+          "value": "2.5-3",
           "demand": "N/A"
         },
         "Shiny": {
