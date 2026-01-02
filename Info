@@ -23,7 +23,7 @@
           "demand": "9/10"
         },
         "Shiny": {
-          "value": "9+",
+          "value": "9",
           "demand": "7.5/10"
         }
       },
@@ -43,7 +43,7 @@
           "demand": "9.5/10"
         },
         "Shiny": {
-          "value": "28",
+          "value": "30+",
           "demand": "10/10"
         }
       },
@@ -73,7 +73,7 @@
           "demand": "8.5/10"
         },
         "Shiny": {
-          "value": "8.5+",
+          "value": "9+",
           "demand": "10/10"
         }
       },
@@ -83,7 +83,7 @@
           "demand": "9/10"
         },
         "Shiny": {
-          "value": "10-13",
+          "value": "12-13",
           "demand": "10/10"
         }
       },
@@ -123,7 +123,7 @@
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "11+",
+          "value": "12",
           "demand": "8+/10"
         }
       },
@@ -249,21 +249,21 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "1.5+",
+          "value": "2+",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "25-28",
+          "value": "28+",
           "demand": "N/A"
         }
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "3",
+          "value": "3.3-4+",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "35-40",
+          "value": "38-40+",
           "demand": "N/A"
         }
       },
@@ -289,11 +289,11 @@
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "1.5-2",
+          "value": "1.5+",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "6-7",
+          "value": "7+",
           "demand": "N/A"
         }
       },
@@ -319,7 +319,7 @@
       },
       "Follow Me": {
         "Normal": {
-          "value": "1.5+",
+          "value": "1-1.5",
           "demand": "N/A"
         },
         "Shiny": {
@@ -339,21 +339,21 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "3",
+          "value": "2.5",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "30-32+",
+          "value": "30",
           "demand": "N/A"
         }
       },
       "Phantom Bonnie": {
         "Normal": {
-          "value": "1-1.5+",
+          "value": "1+",
           "demand": "N/A"
         },
         "Shiny": {
-          "value": "25+",
+          "value": "22",
           "demand": "N/A"
         }
       }
