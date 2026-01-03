@@ -466,7 +466,8 @@
     "Banners": {
       "The Brick Incident": {
         "value": "1-1.2",
-        "demand": "N/A"
+        "demand": "N/A",
+      "status": "N/A"
       }
     }
   },
