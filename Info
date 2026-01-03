@@ -51,7 +51,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "30+",
+          "value": "30-32+",
           "demand": "10/10",
           "status": "Rising"
         }
@@ -75,7 +75,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "29",
+          "value": "29+",
           "demand": "10/10",
           "status": "Stable"
         }
@@ -87,7 +87,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "9+",
+          "value": "9-9.5+",
           "demand": "10/10",
           "status": "Slowly Rising"
         }
@@ -154,7 +154,7 @@
       },
       "Jack'O Bonnie": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.15",
           "demand": "N/A",
           "status": "Stable"
         },
@@ -250,7 +250,7 @@
       },
       "Frostmancer Withered Bonnie": {
         "Normal": {
-          "value": "0.05",
+          "value": "0.02",
           "demand": "N/A",
           "status": "N/A"
         },
@@ -267,7 +267,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "28-30",
+          "value": "27-29",
           "demand": "8.5/10",
           "status": "Unstable"
         }
@@ -298,24 +298,24 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "2+",
+          "value": "2.2+",
           "demand": "N/A",
           "status": "Slowly Rising"
         },
         "Shiny": {
-          "value": "28+",
+          "value": "30+",
           "demand": "N/A",
           "status": "Rising"
         }
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "3.3-4+",
+          "value": "3.5-4",
           "demand": "N/A",
           "status": "Rising"
         },
         "Shiny": {
-          "value": "38-40+",
+          "value": "40+",
           "demand": "N/A",
           "status": "Rising"
         }
@@ -370,7 +370,7 @@
       },
       "Golden Cupcake": {
         "Normal": {
-          "value": "0.4-0.5",
+          "value": "0.3-0.4",
           "demand": "N/A",
           "status": "Unstable"
         },
@@ -399,7 +399,7 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "30",
+          "value": "25",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -411,7 +411,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "22",
+          "value": "20-22",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -431,7 +431,7 @@
     },
     "Gamepasses": {
       "Shiny Hunter": {
-        "value": "2+",
+        "value": "2.2+",
         "demand": "N/A",
         "status": "Stable"
       },
@@ -441,7 +441,7 @@
         "status": "Stable"
       },
       "Premium": {
-        "value": "1.75+",
+        "value": "1.5",
         "demand": "N/A",
         "status": "Unstable"
       },
