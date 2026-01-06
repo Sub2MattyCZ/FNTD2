@@ -51,7 +51,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "35+",
+          "value": "35-40+",
           "demand": "10/10",
           "status": "Rising"
         }
@@ -279,7 +279,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "13",
+          "value": "10",
           "demand": "N/A",
           "status": "Slowly Dropping"
         }
@@ -298,24 +298,24 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "2.2+",
+          "value": "2.5+",
           "demand": "N/A",
           "status": "Slowly Rising"
         },
         "Shiny": {
-          "value": "30-32+",
+          "value": "35+",
           "demand": "N/A",
           "status": "Rising"
         }
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "4",
+          "value": "4-5+",
           "demand": "N/A",
           "status": "Rising"
         },
         "Shiny": {
-          "value": "42+",
+          "value": "45+",
           "demand": "N/A",
           "status": "Rising"
         }
@@ -387,26 +387,26 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "30+",
+          "value": "30",
           "demand": "N/A",
           "status": "Unstable"
         }
       },
       "Spring Duo": {
         "Normal": {
-          "value": "2",
+          "value": "1.5-2",
           "demand": "N/A",
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "20+",
+          "value": "17-20",
           "demand": "N/A",
           "status": "Dropping"
         }
       },
       "Phantom Bonnie": {
         "Normal": {
-          "value": "1+",
+          "value": "0.8-1",
           "demand": "N/A",
           "status": "Unstable"
         },
