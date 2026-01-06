@@ -474,6 +474,48 @@
         "demand": "N/A",
         "status": "N/A"
       }
+    },
+    "Presents": {
+      "Dreadbear Present": {
+        "value": "5-6+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Shadow Bonnie Present": {
+        "value": "4-5+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Grinch Foxy Present": {
+        "value": "1.5-2",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Krampus Purple Guy Present": {
+        "value": "1-1.5+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Follow Me Present": {
+        "value": "1.5+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Phantom Bonnie Present": {
+        "value": "1+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Balloon Boy Present": {
+        "value": "0.5-1+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Cloaked Sparky Present": {
+        "value": "0.5",
+        "demand": "N/A",
+        "status": "N/A"
+      }
     }
   },
   "Units": [
