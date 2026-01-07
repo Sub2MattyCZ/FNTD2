@@ -87,19 +87,19 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "12+",
+          "value": "11-12",
           "demand": "10/10",
           "status": "Slowly Rising"
         }
       },
       "Purple Guy": {
         "Normal": {
-          "value": "0.2",
+          "value": "0.2+",
           "demand": "9/10",
           "status": "Stable"
         },
         "Shiny": {
-          "value": "12-13",
+          "value": "13+",
           "demand": "10/10",
           "status": "Slowly Rising"
         }
@@ -303,7 +303,7 @@
           "status": "Slowly Rising"
         },
         "Shiny": {
-          "value": "35+",
+          "value": "35-37+",
           "demand": "N/A",
           "status": "Rising"
         }
@@ -339,14 +339,14 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "30",
+          "value": "30+",
           "demand": "N/A",
           "status": "Unstable"
         }
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "1",
+          "value": "0.8",
           "demand": "N/A",
           "status": "Slowly Dropping"
         },
@@ -387,7 +387,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "30",
+          "value": "28-30",
           "demand": "N/A",
           "status": "Unstable"
         }
@@ -423,7 +423,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "2.5+",
+          "value": "2",
           "demand": "N/A",
           "status": "N/A"
         }
