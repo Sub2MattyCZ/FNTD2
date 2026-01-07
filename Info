@@ -87,7 +87,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "11-12",
+          "value": "12+",
           "demand": "10/10",
           "status": "Slowly Rising"
         }
@@ -334,7 +334,7 @@
       },
       "Phone Dude": {
         "Normal": {
-          "value": "1.5",
+          "value": "1.75+",
           "demand": "N/A",
           "status": "N/A"
         },
