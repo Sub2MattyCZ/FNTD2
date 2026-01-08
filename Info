@@ -87,7 +87,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "12+",
+          "value": "13.1+",
           "demand": "10/10",
           "status": "Slowly Rising"
         }
@@ -370,12 +370,12 @@
       },
       "Golden Cupcake": {
         "Normal": {
-          "value": "0.3-0.4",
+          "value": "0.3",
           "demand": "N/A",
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "6+",
+          "value": "4+",
           "demand": "N/A",
           "status": "N/A"
         }
@@ -448,7 +448,7 @@
         "status": "Stable"
       },
       "VIP": {
-        "value": "0.3-0.4",
+        "value": "0.6+",
         "demand": "N/A",
         "status": "Stable"
       },
