@@ -387,7 +387,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "25+",
+          "value": "17",
           "demand": "N/A",
           "status": "Dropping"
         }
