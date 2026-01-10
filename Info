@@ -51,9 +51,9 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "35-40+",
+          "value": "40+",
           "demand": "10/10",
-          "status": "Rising"
+          "status": "Stable"
         }
       },
       "Mangle": {
@@ -75,19 +75,19 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "29-30",
-          "demand": "10/10",
+          "value": "30+",
+          "demand": "9/10",
           "status": "Stable"
         }
       },
       "Headless Horseman Mangle": {
         "Normal": {
-          "value": "0.5+",
-          "demand": "8.5/10",
+          "value": "1",
+          "demand": "9/10",
           "status": "Stable"
         },
         "Shiny": {
-          "value": "15+",
+          "value": "16+",
           "demand": "10/10",
           "status": "Rising"
         }
@@ -100,8 +100,8 @@
         },
         "Shiny": {
           "value": "13+",
-          "demand": "10/10",
-          "status": "Slowly Rising"
+          "demand": "8.5/10",
+          "status": "Stable"
         }
       },
       "Party Glock Freddy": {
@@ -274,14 +274,14 @@
       },
       "Krampus Purple Guy": {
         "Normal": {
-          "value": "1.1+",
-          "demand": "9/10",
+          "value": "1.2+",
+          "demand": "8.5+/10",
           "status": "Unstable"
         },
         "Shiny": {
           "value": "15+",
           "demand": "N/A",
-          "status": "Slowly Dropping"
+          "status": "Stable"
         }
       },
       "Scrooge Freddy": {
@@ -310,7 +310,7 @@
       },
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "4.5-5+",
+          "value": "5.5+",
           "demand": "N/A",
           "status": "Rising"
         },
@@ -387,9 +387,9 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "28-30",
+          "value": "25+",
           "demand": "N/A",
-          "status": "Unstable"
+          "status": "Dropping"
         }
       },
       "Spring Duo": {
@@ -399,7 +399,7 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "17",
+          "value": "10+",
           "demand": "N/A",
           "status": "Dropping"
         }
@@ -411,7 +411,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "9-10",
+          "value": "7+",
           "demand": "N/A",
           "status": "Dropping"
         }
