@@ -1062,6 +1062,7 @@
     "Currency": {
       "Souls": {
         "value": "0.0001",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       }
