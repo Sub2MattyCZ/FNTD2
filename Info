@@ -2387,7 +2387,7 @@
       "Type": "Line",
       "Degrees": 55,
       "Element": "Neutral",
-      "MaxPlaced": 1,
+      "MaxPlaced": 2,
       "BaseStats": {
         "Range": 20,
         "Damage": 650,
@@ -4381,7 +4381,7 @@
       "Actives": [
         {
           "Name": "The one you should not have killed",
-          "Description": "Upon activation,Golden Freddy deals 500% Damage to all Enemies on the map.",
+          "Description": "Upon activation,Golden Freddy deals 250% Damage to all Enemies on the map.",
           "Cooldown": 30,
           "Upgrade": 18
         }
