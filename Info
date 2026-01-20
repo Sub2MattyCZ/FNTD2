@@ -1981,7 +1981,6 @@
       "Rarity": "Mythical",
       "PlacementPrice": 6000,
       "Type": "Single",
-      "Degrees": 80,
       "Element": "Fire",
       "MaxPlaced": 2,
       "BaseStats": {
@@ -2330,7 +2329,6 @@
       "Rarity": "Mythical",
       "PlacementPrice": 2750,
       "Type": "Line",
-      "Degrees": 55,
       "Element": "Dark",
       "MaxPlaced": 2,
       "BaseStats": {
@@ -2376,7 +2374,6 @@
       "Rarity": "Mythical",
       "PlacementPrice": 1200,
       "Type": "Line",
-      "Degrees": 90,
       "Element": "Water",
       "MaxPlaced": 3,
       "BaseStats": {
@@ -2543,7 +2540,6 @@
       "Rarity": "Secret",
       "PlacementPrice": 550,
       "Type": "Line",
-      "Degrees": 45,
       "Element": "Rust",
       "MaxPlaced": 3,
       "BaseStats": {
@@ -2655,7 +2651,6 @@
       "Rarity": "Secret",
       "PlacementPrice": 5250,
       "Type": "Line",
-      "Degrees": 55,
       "Element": "Neutral",
       "MaxPlaced": 1,
       "BaseStats": {
@@ -3095,7 +3090,6 @@
       "Rarity": "Secret",
       "PlacementPrice": 1250,
       "Type": "Line",
-      "Degrees": 65,
       "Element": "Dark",
       "MaxPlaced": 2,
       "BaseStats": {
@@ -3646,7 +3640,6 @@
       "Rarity": "Secret",
       "PlacementPrice": 3250,
       "Type": "Single",
-      "Degrees": 65,
       "Element": "Rust",
       "MaxPlaced": 2,
       "BaseStats": {
@@ -4108,7 +4101,6 @@
       "Rarity": "Nightmare",
       "PlacementPrice": 2500,
       "Type": "Line",
-      "Degrees": 45,
       "Element": "Dark",
       "MaxPlaced": 2,
       "BaseStats": {
@@ -4239,7 +4231,6 @@
       "Rarity": "Nightmare",
       "PlacementPrice": 4500,
       "Type": "Single",
-      "Degrees": 60,
       "Element": "Rust",
       "MaxPlaced": 1,
       "BaseStats": {
@@ -4305,7 +4296,6 @@
       "Rarity": "Nightmare",
       "PlacementPrice": 2900,
       "Type": "Single",
-      "Degrees": 65,
       "Element": "Dark",
       "MaxPlaced": 1,
       "BaseStats": {
@@ -4371,7 +4361,6 @@
       "Rarity": "Apex",
       "PlacementPrice": 4500,
       "Type": "Line",
-      "Degrees": 60,
       "Element": "Water",
       "MaxPlaced": 1,
       "BaseStats": {
@@ -4788,7 +4777,6 @@
       "Rarity": "Hero",
       "PlacementPrice": 1134,
       "Type": "Line",
-      "Degrees": 130,
       "Element": "Water",
       "MaxPlaced": 1,
       "BaseStats": {
@@ -5094,7 +5082,6 @@
       "Rarity": "Hero",
       "PlacementPrice": 2500,
       "Type": "Line",
-      "Degrees": 90,
       "Element": "Dark",
       "MaxPlaced": 1,
       "BaseStats": {
