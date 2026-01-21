@@ -896,6 +896,16 @@
       }
     },
     "Presents": {
+      "Boss Raid Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Time Lord Withered Freddy Present": {
+        "value": "N/A",
+        "demand": "N/A",
+        "status": "N/A"
+      },
       "Season 1 Present": {
         "value": "N/A",
         "demand": "N/A",
@@ -928,6 +938,11 @@
       },
       "Luminary Reporter Present": {
         "value": "0.1+",
+        "demand": "N/A",
+        "status": "N/A"
+      },
+      "Popeyes Toy Freddy Present": {
+        "value": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
