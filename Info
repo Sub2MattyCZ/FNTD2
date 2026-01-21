@@ -102,13 +102,13 @@
         "Normal": {
           "value": "4+",
           "soul": "N/A",
-          "demand": "8/10",
-          "status": "Slowly Dropping"
+          "demand": "9/10",
+          "status": "Rising"
         },
         "Shiny": {
           "value": "40+",
           "soul": "430,000+",
-          "demand": "8.5/10",
+          "demand": "9.9/10",
           "status": "Stable"
         }
       },
@@ -267,13 +267,13 @@
       },
       "Popeyes Toy Freddy": {
         "Normal": {
-          "value": "N/A",
+          "value": "0.05",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
         },
         "Shiny": {
-          "value": "N/A",
+          "value": "1.3",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A"
@@ -315,7 +315,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "3.2+",
+          "value": "3.75+",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable"
@@ -329,7 +329,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "2+",
+          "value": "2.5+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable"
@@ -402,7 +402,7 @@
           "value": "2+",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Slowly Rising"
+          "status": "Stable"
         }
       },
       "Spring Duo": {
@@ -897,7 +897,7 @@
     },
     "Presents": {
       "Boss Raid Present": {
-        "value": "N/A",
+        "value": "0.08",
         "demand": "N/A",
         "status": "N/A"
       },
