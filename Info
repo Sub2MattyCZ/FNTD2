@@ -898,6 +898,7 @@
     "Presents": {
       "Boss Raid Present": {
         "value": "0.1",
+        "soul": "N/A",
         "demand": "N/A",
         "status": "N/A"
       },
