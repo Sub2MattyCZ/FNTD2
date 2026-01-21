@@ -421,7 +421,7 @@
       },
       "Phantom Mangle": {
         "Normal": {
-          "value": "0.3",
+          "value": "0.25",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping"
@@ -897,7 +897,7 @@
     },
     "Presents": {
       "Boss Raid Present": {
-        "value": "0.08",
+        "value": "0.1",
         "demand": "N/A",
         "status": "N/A"
       },
@@ -1057,7 +1057,7 @@
         "status": "N/A"
       },
       "Frozen King Foxy Present": {
-        "value": "3+",
+        "value": "4+",
         "demand": "N/A",
         "status": "N/A"
       }
