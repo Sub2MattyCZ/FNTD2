@@ -5,7 +5,7 @@
         "Normal": {
           "value": "8+",
           "soul": "92,500+",
-          "demand": "9.9/10",
+          "demand": "10/10",
           "status": "Rising"
         },
         "Shiny": {
@@ -102,7 +102,7 @@
         "Normal": {
           "value": "5+",
           "soul": "N/A",
-          "demand": "9/10",
+          "demand": "9.5/10",
           "status": "Rising"
         },
         "Shiny": {
@@ -413,7 +413,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "11.5+",
+          "value": "11+",
           "soul": "120,000+",
           "demand": "N/A",
           "status": "Stable"
