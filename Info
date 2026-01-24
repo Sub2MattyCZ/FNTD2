@@ -103,7 +103,7 @@
           "value": "5+",
           "soul": "N/A",
           "demand": "9.5/10",
-          "status": "Rising"
+          "status": "Unstable"
         },
         "Shiny": {
           "value": "45+",
@@ -120,7 +120,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "2.5+",
+          "value": "3+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Stable"
@@ -148,8 +148,8 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "15-16",
-          "soul": "N/A",
+          "value": "13+",
+          "soul": "130,000-140,000+",
           "demand": "6/10",
           "status": "Stable"
         }
@@ -206,7 +206,7 @@
         "Shiny": {
           "value": "17.5+",
           "soul": "N/A",
-          "demand": "10/10",
+          "demand": "8.5/10",
           "status": "Stable"
         }
       },
@@ -344,7 +344,7 @@
         },
         "Shiny": {
           "value": "1.3+",
-          "soul": "N/A",
+          "soul": "15,000",
           "demand": "6.5/10",
           "status": "Stable"
         }
@@ -357,7 +357,7 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "29-30",
+          "value": "27-28",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -483,7 +483,7 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "7.5+",
+          "value": "6.5-7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping"
@@ -497,7 +497,7 @@
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "5+",
+          "value": "4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping"
@@ -566,15 +566,15 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "7",
-          "soul": "N/A",
+          "value": "6.5",
+          "soul": "60,000-65,000",
           "demand": "7.5/10",
           "status": "Slowly Dropping"
         }
       },
       "Blossom Chica": {
         "Normal": {
-          "value": "1.5-2+",
+          "value": "1",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping"
@@ -616,7 +616,7 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "2.5-3",
+          "value": "1.5-2",
           "soul": "N/A",
           "demand": "9/10",
           "status": "N/A"
