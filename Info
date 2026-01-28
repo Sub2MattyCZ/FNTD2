@@ -3,13 +3,14 @@
     "Units": {
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "8+",
-          "soul": "92,500+",
+          "value": "9+",
+          "soul": "110,000+",
           "demand": "10/10",
           "status": "Unstable"
         },
         "Shiny": {
           "value": "50-55",
+          "soul": "550,000+",
           "demand": "8.5",
           "status": "Stable"
         }
@@ -100,15 +101,15 @@
       },
       "Frozen King Foxy": {
         "Normal": {
-          "value": "5+",
+          "value": "6",
           "soul": "N/A",
           "demand": "9.5/10",
           "status": "Unstable"
         },
         "Shiny": {
-          "value": "45+",
+          "value": "45",
           "soul": "450,000+",
-          "demand": "9.5/10",
+          "demand": "9/10",
           "status": "Stable"
         }
       },
@@ -148,10 +149,10 @@
           "status": "Dropping"
         },
         "Shiny": {
-          "value": "12+",
+          "value": "13.5+",
           "soul": "N/A",
           "demand": "6/10",
-          "status": "Stable"
+          "status": "Overhyped"
         }
       },
       "Krampus Purple Guy": {
@@ -204,7 +205,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "17.5+",
+          "value": "17-17.5",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable"
@@ -247,7 +248,7 @@
         },
         "Shiny": {
           "value": "45+",
-          "demand": "10/10",
+          "demand": "8.5/10",
           "status": "Stable"
         }
       },
@@ -357,9 +358,9 @@
           "status": "N/A"
         },
         "Shiny": {
-          "value": "25",
+          "value": "23-24+",
           "soul": "N/A",
-          "demand": "7/10",
+          "demand": "6/10",
           "status": "Slowly Dropping"
         }
       },
@@ -371,7 +372,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "23+",
+          "value": "23-24+",
           "soul": "N/A",
           "demand": "9.9/10",
           "status": "Stable"
@@ -413,7 +414,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "11",
+          "value": "10",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable"
@@ -525,7 +526,7 @@
           "status": "Stable"
         },
         "Shiny": {
-          "value": "14.5+",
+          "value": "15+",
           "soul": "150,000+",
           "demand": "9.5/10",
           "status": "Stable"
@@ -540,7 +541,7 @@
         },
         "Shiny": {
           "value": "35+",
-          "demand": "9/10",
+          "demand": "8/10",
           "soul": "N/A",
           "status": "Stable"
         }
@@ -575,14 +576,14 @@
       },
       "Shark Withered Foxy": {
         "Normal": {
-          "value": "0.6",
-          "soul": "N/A",
+          "value": "0.35",
+          "soul": "3,500+",
           "demand": "N/A",
           "status": "N/A"
         },
         "Shiny": {
-          "value": "10-14",
-          "soul": "N/A",
+          "value": "8",
+          "soul": "80,000-90,000",
           "demand": "N/A",
           "status": "Dropping"
         }
