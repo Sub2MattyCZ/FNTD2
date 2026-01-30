@@ -190,7 +190,7 @@
           "soul": "155,000-160,000+",
           "demand": "N/A",
           "status": "Stable",
-          "exists": 232
+          "exists": 238
         }
       },
       "Undead Chica": {
@@ -473,11 +473,11 @@
           "exists": 15121
         },
         "Shiny": {
-          "value": "7",
+          "value": "6+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "dropping",
-          "exists": 476
+          "exists": 477
         }
       },
       "Phantom Mangle": {
