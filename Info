@@ -361,8 +361,8 @@
           "exists": 12812
         },
         "Shiny": {
-          "value": "4+",
-          "soul": "45,000+",
+          "value": "5+",
+          "soul": "50,000+",
           "demand": "8.5/10",
           "status": "Stable",
           "exists": 291
@@ -377,7 +377,7 @@
           "exists": 17501
         },
         "Shiny": {
-          "value": "2.5+",
+          "value": "3+",
           "soul": "N/A",
           "demand": "7/10",
           "status": "Stable",
@@ -466,8 +466,8 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.5",
-          "soul": "5,000",
+          "value": "0.4-0.5",
+          "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
           "exists": 15121
@@ -658,7 +658,7 @@
       },
       "Shark Withered Foxy": {
         "Normal": {
-          "value": "0.25+",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -754,7 +754,7 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "0.8-1",
+          "value": "0.8",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
