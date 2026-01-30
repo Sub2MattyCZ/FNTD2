@@ -466,7 +466,7 @@
       },
       "Spring Duo": {
         "Normal": {
-          "value": "0.4-0.5",
+          "value": "0.4",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Stable",
@@ -477,7 +477,7 @@
           "soul": "N/A",
           "demand": "N/A",
           "status": "dropping",
-          "exists": 472
+          "exists": 476
         }
       },
       "Phantom Mangle": {
