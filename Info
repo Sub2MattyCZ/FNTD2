@@ -170,9 +170,9 @@
           "exists": 5124
         },
         "Shiny": {
-          "value": "13.5+",
-          "soul": "N/A",
-          "demand": "6/10",
+          "value": "15.5+",
+          "soul": "155,000-160,000",
+          "demand": "8/10",
           "status": "Overhyped",
           "exists": 124
         }
@@ -186,8 +186,8 @@
           "exists": 8200
         },
         "Shiny": {
-          "value": "15+",
-          "soul": "N/A",
+          "value": "15.5+",
+          "soul": "155,000-160,000+",
           "demand": "N/A",
           "status": "Stable",
           "exists": 232
@@ -409,7 +409,7 @@
           "exists": 3843
         },
         "Shiny": {
-          "value": "23-24+",
+          "value": "21+",
           "soul": "N/A",
           "demand": "6/10",
           "status": "Slowly Dropping",
@@ -426,7 +426,7 @@
         },
         "Shiny": {
           "value": "23-24+",
-          "soul": "N/A",
+          "soul": "240,000+",
           "demand": "9.9/10",
           "status": "Stable",
           "exists": 98
@@ -473,7 +473,7 @@
           "exists": 15121
         },
         "Shiny": {
-          "value": "9+",
+          "value": "7",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -489,7 +489,7 @@
           "exists": 42568
         },
         "Shiny": {
-          "value": "2-2.5",
+          "value": "2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -626,7 +626,7 @@
       },
       "Endo 02": {
         "Normal": {
-          "value": "0.5+",
+          "value": "0.4+",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Stable",
@@ -658,14 +658,14 @@
       },
       "Shark Withered Foxy": {
         "Normal": {
-          "value": "0.35",
-          "soul": "3,500+",
+          "value": "0.25+",
+          "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
           "exists": 10361
         },
         "Shiny": {
-          "value": "7",
+          "value": "4-5",
           "soul": "N/A",
           "demand": "N/A",
           "status": "Dropping",
@@ -713,7 +713,7 @@
           "exists": 2167
         },
         "Shiny": {
-          "value": "6+",
+          "value": "5+",
           "soul": "N/A",
           "demand": "8/10",
           "status": "Dropping",
@@ -729,7 +729,7 @@
           "exists": 19544
         },
         "Shiny": {
-          "value": "0.5+",
+          "value": "0.3",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
@@ -754,14 +754,14 @@
       },
       "Time Lord Withered Freddy": {
         "Normal": {
-          "value": "1-1.5",
+          "value": "1+",
           "soul": "N/A",
           "demand": "9/10",
           "status": "Dropping",
           "exists": 3002
         },
         "Shiny": {
-          "value": "10",
+          "value": "7.5-10",
           "soul": "N/A",
           "demand": "7.5/10",
           "status": "Dropping",
@@ -809,7 +809,7 @@
           "exists": 218440
         },
         "Shiny": {
-          "value": "0.25-0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "8.5/10",
           "status": "Stable",
@@ -825,7 +825,7 @@
           "exists": 196350
         },
         "Shiny": {
-          "value": "0.25-0.3",
+          "value": "0.2",
           "soul": "N/A",
           "demand": "N/A",
           "status": "N/A",
@@ -1242,14 +1242,14 @@
         "status": "N/A"
       },
       "Frozen King Foxy Present": {
-        "value": "5.25+",
+        "value": "6.5+",
         "demand": "N/A",
         "status": "N/A"
       }
     },
     "Pets": {
       "Golden Freddy": {
-        "value": "0.6",
+        "value": "1+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -1359,7 +1359,7 @@
     },
     "Gamepasses": {
       "Shiny Hunter": {
-        "value": "2.2+",
+        "value": "2+",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
@@ -1371,7 +1371,7 @@
         "status": "Stable"
       },
       "Premium": {
-        "value": "1.25",
+        "value": "1",
         "soul": "N/A",
         "demand": "N/A",
         "status": "Stable"
