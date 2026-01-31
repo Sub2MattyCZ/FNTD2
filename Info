@@ -3,10 +3,10 @@
     "Units": {
       "Yeti Oni Bonnie": {
         "Normal": {
-          "value": "9+",
-          "soul": "100,000+",
-          "demand": "10/10",
-          "status": "Unstable",
+          "value": "1+",
+          "soul": "5",
+          "demand": "0/10",
+          "status": "Rising",
           "exists": 6539
         },
         "Shiny": {
